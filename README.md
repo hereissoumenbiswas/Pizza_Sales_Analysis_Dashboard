@@ -76,3 +76,32 @@ The result is a one-page dashboard that a manager can read in a few seconds.
 16. **Add the timeline and slicer.** One dashboard can then answer many questions.
 
 ---
+
+## 🔍 Key Insights
+
+**1. Overall performance**
+- Total revenue is **$817,860** from **21,350 orders** and **49,574 pizzas**.
+- The average order is worth **$38.31** and contains **2.32 pizzas**.
+
+**2. Busiest days**
+- **Friday is the busiest day** with 3,538 orders. Sunday is the slowest with 2,624, so Friday has about 35% more orders.
+- Weekends are not the peak. Saturday and Sunday together make only about 27% of orders.
+
+**3. Busiest hours**
+- There are two clear rushes: **12 pm to 2 pm** (4,975 orders, about 23%) and **4 pm to 8 pm** (8,664 orders, about 41%).
+- Together they bring about **64% of all orders**. The evening rush is the biggest.
+- Orders are very low early in the morning and late at night.
+
+**4. Category**
+- **Classic** is the leader in both pizzas sold (14,888) and share of sales (26.91%).
+- Chicken sells the fewest pizzas (11,050), but its share of sales (23.96%) is slightly higher than Veggie's (23.68%). This means Chicken pizzas have a higher price per pizza.
+
+**5. Size**
+- **Large** gives the biggest share of sales (45.89%). Large and Medium together give about **76%**.
+- XL and XXL together give less than **2%**.
+
+**6. Best and worst sellers**
+- The top 5 are very close. The Classic Deluxe Pizza is first with 2,453 pizzas and the 5th has 2,371, a gap of only about 3%.
+- **The Brie Carre Pizza is the weakest** with only 490 pizzas, about half of the next lowest (934).
+
+---
