@@ -42,12 +42,15 @@ The result is a one-page dashboard that a manager can read in a few seconds.
 
 ### Data Preparation (SQL)
 
-1. **Import the CSV file into SQL using a query and the file location** (not the import/export wizard).
-   *Why:* the import is written as code, so it can be repeated at any time with the same result, and I control the column data types.
+1. **Import the CSV file into SQL using a query and the file location** (not the import/export wizard)
+   
+   **Why:** the import is written as code, so it can be repeated at any time with the same result, and I control the column data types.
 2. **Query all KPIs and required numbers in SQL.**
-   *Why:* SQL gives me trusted numbers to compare against the Excel dashboard later.
+
+   **Why:** SQL gives me trusted numbers to compare against the Excel dashboard later.
 3. **Load the data into Excel.**
-   *Why:* Excel is where I build the charts, slicers and the final dashboard.
+
+   **Why:** Excel is where I build the charts, slicers and the final dashboard.
 
 ### Data Cleaning
 
@@ -57,11 +60,14 @@ The result is a one-page dashboard that a manager can read in a few seconds.
 ### Data Processing
 
 5. **Extract the month from `order_date`:** `=TEXT([@[order_date]], "mmmm")`
-   *Why:* needed for monthly analysis and for grouping in the timeline.
+
+   **Why:** needed for monthly analysis and for grouping in the timeline.
 6. **Extract the day name from `order_date`:** `=TEXT([@[order_date]], "dddd")`
-   *Why:* shows which days of the week are strong or weak, and powers the day slicer.
+
+   **Why:** shows which days of the week are strong or weak, and powers the day slicer.
+   
 7. **Extract the hour from `order_time`:** `=TEXT([@[order_time]], "h")`
-   *Why:* shows the busiest hours of the day, which helps with staffing and promotions.
+   **Why:** shows the busiest hours of the day, which helps with staffing and promotions.
 
 ### Dashboard Building
 
