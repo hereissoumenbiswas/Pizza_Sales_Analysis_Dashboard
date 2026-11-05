@@ -55,7 +55,8 @@ The result is a one-page dashboard that a manager can read in a few seconds.
 ### Data Cleaning
 
 4. **Replace abbreviated sizes with full names in Power Query** (e.g. M → Medium, S → Small).
-   *Why:* full names are easier to read in charts and legends. Power Query saves this as a step, so it re-applies automatically when data is refreshed.
+   
+   **Why:** full names are easier to read in charts and legends. Power Query saves this as a step, so it re-applies automatically when data is refreshed.
 
 ### Data Processing
 
@@ -67,6 +68,7 @@ The result is a one-page dashboard that a manager can read in a few seconds.
    **Why:** shows which days of the week are strong or weak, and powers the day slicer.
    
 7. **Extract the hour from `order_time`:** `=TEXT([@[order_time]], "h")`
+
    **Why:** shows the busiest hours of the day, which helps with staffing and promotions.
 
 ### Dashboard Building
