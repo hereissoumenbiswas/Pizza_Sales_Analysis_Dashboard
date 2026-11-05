@@ -3,8 +3,6 @@ An end-to-end data analytics project that turns raw pizza order data into an int
 
 [Pizza Sales Dashboard](https://github.com/hereissoumenbiswas/Pizza_Sales_Analysis_Dashboard/blob/main/dashboard/Pizza_Sales_Analysis_Dashboard.png)
 
----
-
 ## 📌 Project Overview
 
 A pizza restaurant records every order, but raw rows do not tell the owner what to do next. This project answers simple business questions:
