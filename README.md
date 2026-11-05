@@ -142,7 +142,7 @@ Pizza_Sales_Analysis_Dashboard/
 │   ├── 02_data_analysis.sql
 │   └── Pizza_sales_Analysis_SQL_Queries_With_Output_&_Visuals.pdf
 ├── workflow/
-│   └── Pizza_Sales_Analysis_Step_by_Step_Workflow.pdf
+│   └── Pizza_Sales_Analysis_Step_by_Step_Workflow.docx
 └── README.md
 ```
 
