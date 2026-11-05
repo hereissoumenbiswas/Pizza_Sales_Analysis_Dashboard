@@ -124,6 +124,37 @@ The result is a one-page dashboard that a manager can read in a few seconds.
 
   ---
 
+  ## 📁 Repository Structure
+
+```
+Pizza_Sales_Analysis_Dashboard/
+├── BRD/
+│   └── Pizza_Sales_Analysis_BRD.docx
+├── dashboard/
+│   ├── Pizza_Sales_Analysis_Project.xlsx
+│   └── Pizza_sales_dashboard_screenshot.png
+├── data/
+│   └── pizza_sales_data.csv
+├── report/
+│   └── Pizza_Sales_Analysis_Key_Insights_and_Business_Recommendations.pdf
+├── sql_scripts/
+│   └── Pizza_Sales_Analysis_SQL_Queries.pdf
+├── workflow/
+│   └── Pizza_Sales_Analysis_Step_by_Step_Workflow.pdf
+└── README.md
+```
+
+| Folder | What it contains |
+|--------|------------------|
+| `BRD` | Business Requirements Document: the business problem and what the dashboard must answer |
+| `dashboard` | The Excel dashboard file and its screenshot |
+| `data` | The raw pizza sales data (CSV) |
+| `report` | Key insights and business recommendations |
+| `sql_scripts` | SQL queries used to import the data and calculate the KPIs |
+| `workflow` | Step-by-step workflow of the project |
+
+---
+
 ## 👤 Author
 
 **Soumen Biswas**
