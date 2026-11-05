@@ -105,3 +105,30 @@ The result is a one-page dashboard that a manager can read in a few seconds.
 - **The Brie Carre Pizza is the weakest** with only 490 pizzas, about half of the next lowest (934).
 
 ---
+
+## 💡 Business Recommendations
+
+1. **Staff more people on Fridays and during the two rush windows.** Fast service in these hours protects the most orders.
+2. **Run offers on Sundays and Mondays** (combo deals, discounts). These are the slowest days, so they have the most room to grow.
+3. **Offer deals in the quieter hours,** such as the afternoon dip between the two rushes (2 pm to 4 pm) and late evening.
+4. **Focus stock and promotions on Large and Medium sizes.** Consider simplifying XL and XXL, since they barely sell.
+5. **Increase pizzas per order** (now 2.32) with "buy 2, get a discount" or family combos.
+6. **Review the Brie Carre Pizza before deciding.** First check its revenue and whether it was on the menu all year. If it is a true low performer, reprice it, bundle it or remove it.
+
+---
+
+## ⚠️ Limitations
+
+- The data covers **one year (2015)**, so these patterns show that year only.
+- The best and worst seller charts use **quantity, not revenue**.
+
+  ---
+
+## 👤 Author
+
+**Soumen Biswas**
+Data Science Graduate | Aspiring Data Analyst
+
+- LinkedIn: [(https://www.linkedin.com/in/hereissoumenbiswas)]
+- GitHub: [(https://github.com/hereissoumenbiswas)]
+
