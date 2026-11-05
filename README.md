@@ -138,7 +138,9 @@ Pizza_Sales_Analysis_Dashboard/
 ├── report/
 │   └── Pizza_Sales_Analysis_Key_Insights_and_Business_Recommendations.pdf
 ├── sql_scripts/
-│   └── Pizza_Sales_Analysis_SQL_Queries.pdf
+│   ├── 01_database_setup.sql
+│   ├── 02_data_analysis.sql
+│   └── Pizza_sales_Analysis_SQL_Queries_With_Output_&_Visuals.pdf
 ├── workflow/
 │   └── Pizza_Sales_Analysis_Step_by_Step_Workflow.pdf
 └── README.md
