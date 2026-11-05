@@ -127,7 +127,7 @@ The result is a one-page dashboard that a manager can read in a few seconds.
 ## 👤 Author
 
 **Soumen Biswas**
-Data Science Graduate
+(Data Science Graduate)
 
 - LinkedIn: [(https://www.linkedin.com/in/hereissoumenbiswas)]
 - GitHub: [(https://github.com/hereissoumenbiswas)]
