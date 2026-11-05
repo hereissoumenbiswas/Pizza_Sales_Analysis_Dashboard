@@ -15,3 +15,26 @@ A pizza restaurant records every order, but raw rows do not tell the owner what 
 The result is a one-page dashboard that a manager can read in a few seconds.
 
 ---
+
+## 🛠️ Tools Used
+
+| Tool | Purpose |
+|------|---------|
+| SQL | Import the CSV with a query, and calculate all KPIs |
+| Excel | Data processing, charts, dashboard |
+| Power Query | Data cleaning (full size names) |
+| Slicer and Timeline | Interactive filtering by day and period |
+
+---
+
+## 📊 Dashboard Contents
+
+- **KPI cards:** Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, Average Pizzas per Order
+- **Daily trend** (bar chart) and **Hourly trend** (line chart)
+- **% of sales by category** (donut chart) and **% of sales by size** (pie chart)
+- **Total pizzas sold by category** (funnel chart)
+- **Top 5 best sellers** and **Bottom 5 worst sellers** (bar charts)
+- **Timeline and day slicer** for interactive filtering
+
+---
+
